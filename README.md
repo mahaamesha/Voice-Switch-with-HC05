@@ -1,7 +1,7 @@
 # Voice-Switch-with-HC05
 by Ma Haamesha
 
-Little arduino project, providing voice control to turn on and off devices. As first simulation, I use LED 5mm and active buzzer. It can be used for any AC electronic devices 220V, you need relay as switch.
+Little arduino project, providing voice control to turn on and off devices. As first simulation, I use LED 5mm and active buzzer. It can be used for any AC electronic devices 220V, you need relay as switch. Use ESP8266 and provide it internet acces and you can control it everywhere as simple IoT system.
 
 What you need?
 1. Breadboard
